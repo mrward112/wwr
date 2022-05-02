@@ -1,2 +1,0 @@
-# wwr
-Whitewater Rafting project
