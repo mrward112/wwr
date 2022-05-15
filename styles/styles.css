@@ -4,17 +4,17 @@ margin: 0 auto;
 }
 nav a {
     text-align: center;
-    color:#3c6d80;
+    color:#080808;
     text-decoration: none;
 }
 nav a:hover{
-    color:#3c6d80;
+    color:#080808;
 }
 .home-title{
-    color:#3c6d80;
+    color:#080808;
 }
 h4 {
-    color:#3c6d80;
+    color:#080808;
 }
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
@@ -36,16 +36,16 @@ header{
 }
 nav a:hover{
     background-color:#ffffff;
-    color:#3c6d80;
+    color:#080808;
 }
 .book, .join{
     background-color:#366E4B;
-    color:#3c6d80;
+    color:#080808;
     text-decoration: none;
 }
 .book:hover, .join:hover{
     background-color:#ffffff;
-    color:#3c6d80;
+    color:#080808;
 }
 #background{
     background-color:#366E4B;
@@ -54,20 +54,20 @@ nav a:hover{
     background-color:#366E4B;
 }
 .msg h2 {
-    color:#3c6d80;
+    color:#080808;
 }
 .msg p{
-    color:#3c6d80;
+    color:#080808;
 }
 footer{
     background-color:#3c6d80;
     text-decoration: underline
 }
 footer h3{
-    color:#3c6d80;
+    color:#080808;
 }
 footer a{
-    color:#3c6d80;
+    color:#080808;
     text-decoration: none;
 }
 footer a:hover{
