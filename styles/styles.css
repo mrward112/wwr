@@ -61,10 +61,14 @@ nav a:hover{
 }
 footer{
     background-color:#3c6d80;
-    text-decoration: underline
+    text-decoration: none;
 }
 footer h3{
     color:#080808;
+    text-decoration: none;
+}
+footer h3 a:hover{
+    text-decoration: underline
 }
 footer a{
     color:#080808;
