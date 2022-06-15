@@ -59,7 +59,7 @@ h4 {
 }
 #hero-msg{
     grid-column: 2;
-    margin-top: -750px;
+    margin-top: -90%;
 }
 #hero-msg h1 {
     letter-spacing: 5px;
