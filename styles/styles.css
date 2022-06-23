@@ -217,6 +217,7 @@ footer .social img {
 #rivercss{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    /* grid-template-rows: 1fr 1fr 1fr; */
 }
 #desolation, #grandcanyon, #salmon{
     grid-column: 1/3;
@@ -225,7 +226,7 @@ footer .social img {
 .paragraph_header{
     font-family: Bangers, Papyrus, Arial-Black;
     color: #366E4B;
-    grid-column: 1;
+    grid-column: 1/3;
 }
 .salmonriver, .desolationriver, .grandcanyon{
     width: 450px;
